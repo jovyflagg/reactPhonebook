@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Simmigon Flagg",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "phone": "6787900353",
+    "email": "simmigon.flagg@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Jovy Flagg",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "phone": "4049109904",
+    "email": "jovycortez11@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Miranda Cosgrove",
+    "image":
+      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "phone": "8126667876",
+    "email": "mcos@gmail.com"
+  }
+]
