@@ -5,7 +5,7 @@ import contacts from "./contacts.json";
 
 const App = () => (
   <div>
-    <Title>Contacts</Title>
+    <Title>Phonebook</Title>
     <ContactCard
       name={contacts[0].name}
       image={contacts[0].image}
