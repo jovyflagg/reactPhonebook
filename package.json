@@ -13,7 +13,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "publish": "git push && npm run deploy",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
